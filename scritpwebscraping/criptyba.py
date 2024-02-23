@@ -1,4 +1,4 @@
 import requests
-url = "https://web.tyba.com.co/#/auth-login?session"
+url = "https://www.binance.com/en/my/wallet/account/payment/cryptobox"
 res = requests.get(url)
 
