@@ -17,14 +17,14 @@ api_hash = '1ebe2cac78e82f0bbcb3cb78f6248229'
 mensajes_filtrados = []
 
 #Inicia el cliente de Telegram
-client = TelegramClient('48Intento', api_id, api_hash)
+client = TelegramClient('54Intento', api_id, api_hash)
 
 # Crea una cola y un set para almacenar los mensajes
 cola_de_mensajes = queue.Queue()
 mensajes_set = set()
 
 # Ruta del archivo JSON para almacenar los mensajes
-json_file_path = 'mensajes.json'
+json_file_path = 'data/mensajes.json'
 # Verifica si el archivo JSON ya existe
 try:
     with open(json_file_path, 'r') as file:
@@ -34,7 +34,7 @@ except FileNotFoundError:
     mensajes_filtrados = []
 
 
-@client.on(events.NewMessage(chats=['@Crypto_Box_Code_Binance']))
+@client.on(events.NewMessage(chats=['@Crypto_Box_Code_Binance', '@UnlimitedBinanceBoxes', 'KingBX', 'Token_Boxes']))
 async def nuevo_mensaje(event):
     mensaje = event.message.message
     # Obtiene la hora de recepción del mensaje
@@ -54,7 +54,7 @@ async def nuevo_mensaje(event):
 
     cola_de_mensajes.put(mensaje_info)
     mensajes_set.add(mensaje)
-    mensajes_filtrados.append(((mensaje_info)),("\n"))
+    mensajes_filtrados.append(mensaje_info)
 
 
     with open(json_file_path, 'w') as file:
@@ -72,31 +72,31 @@ async def procesar_mensajes():
 
             try:
                 print('Arrancando')
-                x, y = pyscreeze.locateCenterOnScreen('storage/IrBinance.png')
+                x, y = pyscreeze.locateCenterOnScreen('images/IrBinance.png')
                 pyautogui.click(x, y)
                 print("UBICADO EN BINANCE")
-                pyautogui.click('storage/NewPaste.png')
+                pyautogui.click('images/NewPaste.png')
                 pyautogui.write(mensaje)
                 print("Texto pegado de protapales")
 
                 try:
-                    x, y = pyscreeze.locateCenterOnScreen('storage/ClaimNow.png')
+                    x, y = pyscreeze.locateCenterOnScreen('images/ClaimNow.png')
                     pyautogui.click(x, y)
                 except pyscreeze.ImageNotFoundException:
-                    x, y = pyscreeze.locateCenterOnScreen('storage/CapturaRecargar.png')
+                    x, y = pyscreeze.locateCenterOnScreen('images/CapturaRecargar.png')
                     pyautogui.click(x, y)
 
                 for _ in range(3):
                     try:
-                        pyautogui.click('storage/Open.png')
+                        pyautogui.click('images/Open.png')
                         print("Crytptobox abierta")
                         break
                     except pyscreeze.ImageNotFoundException:
                         print("Imagen 'AbrirCaja.png' no encontrada. Intentando de nuevo.")
-                        x, y = pyscreeze.locateCenterOnScreen('storage/CapturaRecargar.png')
+                        x, y = pyscreeze.locateCenterOnScreen('images/CapturaRecargar.png')
                         pyautogui.click(x, y)
                         print("Imagen 'AbrirCaja.png' no encontrada. Intentando de nuevo.")
-                        x, y = pyscreeze.locateCenterOnScreen('storage/ClosePacketDetails.png')
+                        x, y = pyscreeze.locateCenterOnScreen('images/ClosePacketDetails.png')
                         pyautogui.click(x, y)
             except pyscreeze.ImageNotFoundException:
                 print(Fore.RED + f"imagen no encontrada, finalizando ")
