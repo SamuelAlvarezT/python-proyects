@@ -61,6 +61,14 @@ async def nuevo_mensaje(event):
         json.dump(mensajes_filtrados, file)
 
     print(Fore.GREEN + f'Mensaje aprobado: {mensaje}')
+
+    try:
+        await client.send_message('@CryptotribuTeam', mensaje)
+    except ChatWriteForbiddenError:
+        print("You don't have permission to write in this chat.")
+    except Exception as e:
+        print(f"Unexpected error: {e}")
+
     await asyncio.sleep(0.1)
 
 
@@ -75,7 +83,7 @@ async def procesar_mensajes():
                 x, y = pyscreeze.locateCenterOnScreen('images/IrBinance.png')
                 pyautogui.click(x, y)
                 print("UBICADO EN BINANCE")
-                pyautogui.click('images/NewPaste.png')
+                pyautogui.click('images/PasteBinance.png')
                 pyautogui.write(mensaje)
                 print("Texto pegado de protapales")
 
@@ -100,6 +108,7 @@ async def procesar_mensajes():
                         pyautogui.click(x, y)
             except pyscreeze.ImageNotFoundException:
                 print(Fore.RED + f"imagen no encontrada, finalizando ")
+        
         await asyncio.sleep(0.1)
 
 
