@@ -1,0 +1,873 @@
+Active code page: 65001
+
+C:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects>"c:/Users/Andrea/Desktop/samuel/programcion/campus y proyectos/pythonProyects/python-proyects/.venv/Scripts/python.exe" "c:/Users/Andrea/Desktop/samuel/programcion/campus y proyectos/pythonProyects/python-proyects/main.py"
+Message approved: KQZP6QQH
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 9.546511888504028 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.8013155460357666 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 0.9411134719848633 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 14.914406538009644 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 11.028889894485474 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.8295888900756836 seconds.
+Pasted message text
+Message approved: 4NO4YIE7
+Unexpected error: Could not locate the image.
+Error traceback:
+Traceback (most recent call last):
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\main.py", line 172, in process_messages
+    if await search_and_click(image_paths['claim_now']):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\main.py", line 114, in search_and_click
+    location = pyscreeze.locateCenterOnScreen(image_path)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\.venv\Lib\site-packages\pyscreeze\__init__.py", line 447, in locateCenterOnScreen
+    coords = locateOnScreen(image, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\.venv\Lib\site-packages\pyscreeze\__init__.py", line 405, in locateOnScreen
+    retVal = locate(image, screenshotIm, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\.venv\Lib\site-packages\pyscreeze\__init__.py", line 383, in locate
+    points = tuple(locateAll(needleImage, haystackImage, **kwargs))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\.venv\Lib\site-packages\pyscreeze\__init__.py", line 371, in _locateAll_pillow
+    raise ImageNotFoundException('Could not locate the image.')
+pyscreeze.ImageNotFoundException: Could not locate the image.
+
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 10.304473876953125 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.8286211490631104 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.124208688735962 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 15.955085515975952 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.711256504058838 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.8824670314788818 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.0754730701446533 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 15.384259462356567 seconds
+Message approved: T4QR7Y74
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 7.46412992477417 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.8501338958740234 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 0.9438183307647705 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 12.96343994140625 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.42139744758606 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.8008120059967041 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.097944974899292 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 15.076807975769043 seconds
+Message approved: TU0P335G
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 7.300851106643677 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.7927241325378418 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 0.9325747489929199 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 12.643411874771118 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.128955841064453 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.845409631729126 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 0.9857547283172607 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 14.622295379638672 seconds
+Message approved: 2MV02953
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 7.673614978790283 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.8119494915008545 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 0.9995577335357666 seconds.
+Claim Now clicked
+Message approved: Y9ELOQ68
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 13.126152753829956 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.028286218643188 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.8067059516906738 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.1814045906066895 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 14.72033405303955 seconds
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 10.585333108901978 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.7302281856536865 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.0687785148620605 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 16.08259153366089 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.559317827224731 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.801598310470581 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.1684787273406982 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 15.268260478973389 seconds
+Message approved: L79LEPDR
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 7.600339651107788 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.8534526824951172 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 0.961132287979126 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 13.137686729431152 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.4276704788208 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.8702883720397949 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.0803499221801758 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 15.110059261322021 seconds
+Message approved: JI5IF4P5
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 8.001071691513062 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.8569908142089844 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.0776574611663818 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 13.601735830307007 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.35137152671814 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.9346215724945068 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.4173455238342285 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 15.426854372024536 seconds
+Message approved: 4S2FF6E2
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 7.6229777336120605 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.8270964622497559 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.0488371849060059 seconds.
+Claim Now clicked
+Message approved: EIOLM72H
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 13.1461763381958 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.434959411621094 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.8159167766571045 seconds.
+Pasted message text
+Message approved: ZVC72EIT
+Image 'images/ClaimNow.png' found and clicked in 1.01975417137146 seconds.
+Claim Now clicked
+Message approved: IV3W8WOF
+Message approved: 79T3PJQ7
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 15.062973260879517 seconds
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 10.253159523010254 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.8508439064025879 seconds.
+Pasted message text
+Message approved: UVZ2CWED
+Image 'images/ClaimNow.png' found and clicked in 1.0277678966522217 seconds.
+Claim Now clicked
+Message approved: KOLCLL14
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 16.08602285385132 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.616459369659424 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.8720977306365967 seconds.
+Pasted message text
+Message approved: J0K6HT5Z
+Image 'images/ClaimNow.png' found and clicked in 1.129652738571167 seconds.
+Claim Now clicked
+Message approved: AIVABCEE
+Message approved: CJIVF88M
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 15.436469316482544 seconds
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 11.117299556732178 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.7962770462036133 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.0308589935302734 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 16.568797826766968 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.763176441192627 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.8171811103820801 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.1316747665405273 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 15.453972578048706 seconds
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 10.651439666748047 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.8464925289154053 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.0140256881713867 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 16.190332651138306 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.226093530654907 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.8113596439361572 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.1890318393707275 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 14.94419264793396 seconds
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 10.500810146331787 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.7411618232727051 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.2638475894927979 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 16.17875361442566 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.764436960220337 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.8157765865325928 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.0394654273986816 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 15.343717575073242 seconds
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 10.79721713066101 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.7249650955200195 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.2163746356964111 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 16.362795114517212 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.514711856842041 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.815779447555542 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.0584566593170166 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 15.134409427642822 seconds
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 10.559736967086792 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.8174095153808594 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.113731861114502 seconds.
+Claim Now clicked
+Message approved: 5INO4TM9
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 16.124552249908447 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.778532981872559 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.9170436859130859 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.0250129699707031 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 15.425857543945312 seconds
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 11.811703443527222 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.9261119365692139 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.2103168964385986 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 17.72105884552002 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.668432712554932 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.8559980392456055 seconds.
+Pasted message text
+Message approved: 0ECDF072
+Image 'images/ClaimNow.png' found and clicked in 1.203190565109253 seconds.
+Claim Now clicked
+Message approved: G1YWJ4C0
+Clicked on coordinates (952, 714)
+Message approved: TZFO6ZIT
+Pressed F5 to refresh
+Second process finished in 15.751465320587158 seconds
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 10.53500771522522 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.788994312286377 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.1072900295257568 seconds.
+Claim Now clicked
+Message approved: ZVXAX5D3
+Message approved: SZY6EWAJ
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 16.084206581115723 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.82707929611206 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.8667104244232178 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.124206304550171 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 15.505938529968262 seconds
+Starting message processing
+Unexpected error: Could not locate the image.
+Error traceback:
+Traceback (most recent call last):
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\main.py", line 138, in process_messages
+    if await search_and_click(image_paths['ir_binance']):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\main.py", line 114, in search_and_click
+    location = pyscreeze.locateCenterOnScreen(image_path)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\.venv\Lib\site-packages\pyscreeze\__init__.py", line 447, in locateCenterOnScreen
+    coords = locateOnScreen(image, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\.venv\Lib\site-packages\pyscreeze\__init__.py", line 405, in locateOnScreen
+    retVal = locate(image, screenshotIm, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\.venv\Lib\site-packages\pyscreeze\__init__.py", line 383, in locate
+    points = tuple(locateAll(needleImage, haystackImage, **kwargs))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\.venv\Lib\site-packages\pyscreeze\__init__.py", line 371, in _locateAll_pillow
+    raise ImageNotFoundException('Could not locate the image.')
+pyscreeze.ImageNotFoundException: Could not locate the image.
+
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 9.836395263671875 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.9831526279449463 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 0.9508929252624512 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 15.507027626037598 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.559807538986206 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.8838179111480713 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.091456413269043 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 15.266438007354736 seconds
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 11.428205728530884 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.8926234245300293 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.0444324016571045 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 17.036081314086914 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.601529836654663 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.9192922115325928 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.032057762145996 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 15.237603664398193 seconds
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 10.985981464385986 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.741755485534668 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.0624899864196777 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 16.470930814743042 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.693037271499634 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.8660163879394531 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.1775264739990234 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 15.47104787826538 seconds
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 12.9474778175354 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.9246196746826172 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.2028312683105469 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Message approved: HXWYWZQ8
+Message approved: S7UESXMC
+Message approved: 6YEHKTMX
+Message approved: CMSEL17N
+Message approved: 2PIAW68D
+Message approved: J0B6J8I1
+Message approved: TT7RF4NF
+Message approved: F1K8714Z
+Pressed F5 to refresh
+First process finished in 19.25256872177124 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 11.558871984481812 seconds.
+Image 'images/PasteBinance.png' found and clicked in 1.1887855529785156 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.047288417816162 seconds.
+Claim Now clicked
+Message approved: HCB1SSBM
+Message approved: L7U6Z0JN
+Message approved: LOG7KEGZ
+Message approved: 2OC9IHDC
+Message approved: BMNUXA06
+Message approved: U8KDYTLJ
+Message approved: FO98MIZR
+Message approved: JGDQ3P5G
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 18.227248907089233 seconds
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 10.840487003326416 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.8486168384552002 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.2402946949005127 seconds.
+Claim Now clicked
+Message approved: RGVSNDC7
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 16.60929775238037 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.628533124923706 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.8989145755767822 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.1521072387695312 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 15.391573905944824 seconds
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 10.791831970214844 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.805668830871582 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.0523064136505127 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 16.333230018615723 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 10.264349222183228 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.9033899307250977 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.2155730724334717 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 16.06360912322998 seconds
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 11.142382144927979 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.9117791652679443 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.0972938537597656 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 16.909932374954224 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.644181489944458 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.9686763286590576 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.2087054252624512 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 15.61586618423462 seconds
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 11.15910291671753 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.8009672164916992 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.094428300857544 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 16.711442470550537 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 10.231284618377686 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.8673923015594482 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.0826995372772217 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 15.868943929672241 seconds
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 10.555598497390747 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.8036229610443115 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.0243124961853027 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 16.02489447593689 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.576432228088379 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.8326356410980225 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.0714561939239502 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Message approved: VL01Y3KJ
+Pressed F5 to refresh
+Second process finished in 15.126671314239502 seconds
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 10.597956895828247 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.8287787437438965 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.2140395641326904 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 16.3697669506073 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.96229100227356 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.9164557456970215 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.0735697746276855 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 15.668375253677368 seconds
+Starting message processing
+Unexpected error: Could not locate the image.
+Error traceback:
+Traceback (most recent call last):
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\main.py", line 138, in process_messages
+    if await search_and_click(image_paths['ir_binance']):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\main.py", line 114, in search_and_click
+    location = pyscreeze.locateCenterOnScreen(image_path)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\.venv\Lib\site-packages\pyscreeze\__init__.py", line 447, in locateCenterOnScreen
+    coords = locateOnScreen(image, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\.venv\Lib\site-packages\pyscreeze\__init__.py", line 405, in locateOnScreen
+    retVal = locate(image, screenshotIm, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\.venv\Lib\site-packages\pyscreeze\__init__.py", line 383, in locate
+    points = tuple(locateAll(needleImage, haystackImage, **kwargs))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\.venv\Lib\site-packages\pyscreeze\__init__.py", line 371, in _locateAll_pillow
+    raise ImageNotFoundException('Could not locate the image.')
+pyscreeze.ImageNotFoundException: Could not locate the image.
+
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 9.779406547546387 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.9166009426116943 seconds.
+Pasted message text
+Message approved: 9OK7ICYF
+Message approved: EX2SLI8E
+Image 'images/ClaimNow.png' found and clicked in 1.0605506896972656 seconds.
+Claim Now clicked
+Message approved: 51EKFMNG
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 15.70244026184082 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.608839988708496 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.8855037689208984 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.0472655296325684 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 15.311979532241821 seconds
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 12.096635103225708 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.8403239250183105 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.31307053565979 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 17.912795543670654 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.712912321090698 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.798959493637085 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.0700297355651855 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Message approved: ZUOY3ZAM
+Pressed F5 to refresh
+Second process finished in 15.241859912872314 seconds
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 10.622399091720581 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.8366875648498535 seconds.
+Pasted message text
+Message approved: SBYKSMSP
+Image 'images/ClaimNow.png' found and clicked in 1.0808539390563965 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 16.34482455253601 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.624871969223022 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.8015029430389404 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.059952974319458 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 15.194173574447632 seconds
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 11.649875402450562 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.8876440525054932 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.0145337581634521 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 17.271307229995728 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 9.511699438095093 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.865863561630249 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.1275298595428467 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 15.252916812896729 seconds
+Starting message processing
+Unexpected error: Could not locate the image.
+Error traceback:
+Traceback (most recent call last):
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\main.py", line 138, in process_messages
+    if await search_and_click(image_paths['ir_binance']):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\main.py", line 114, in search_and_click
+    location = pyscreeze.locateCenterOnScreen(image_path)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\.venv\Lib\site-packages\pyscreeze\__init__.py", line 447, in locateCenterOnScreen
+    coords = locateOnScreen(image, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\.venv\Lib\site-packages\pyscreeze\__init__.py", line 405, in locateOnScreen
+    retVal = locate(image, screenshotIm, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\.venv\Lib\site-packages\pyscreeze\__init__.py", line 383, in locate
+    points = tuple(locateAll(needleImage, haystackImage, **kwargs))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\.venv\Lib\site-packages\pyscreeze\__init__.py", line 371, in _locateAll_pillow
+    raise ImageNotFoundException('Could not locate the image.')
+pyscreeze.ImageNotFoundException: Could not locate the image.
+
+Starting message processing
+Image 'images/IrBinance.png' found and clicked in 9.951351881027222 seconds.
+Located and clicked on 'IrBinance.png'
+Image 'images/PasteBinance.png' found and clicked in 0.9375581741333008 seconds.
+Pasted message text
+Image 'images/ClaimNow.png' found and clicked in 1.0984234809875488 seconds.
+Claim Now clicked
+Message approved: 10MRRUVV
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+First process finished in 15.640699625015259 seconds
+Starting SECOND PROCCES
+Image 'images/IrBinance.png' found and clicked in 10.966142892837524 seconds.
+Image 'images/PasteBinance.png' found and clicked in 0.9259705543518066 seconds.
+Pasted message text
+Message approved: TN2FC4PX
+Image 'images/ClaimNow.png' found and clicked in 1.0156643390655518 seconds.
+Claim Now clicked
+Clicked on coordinates (952, 714)
+Pressed F5 to refresh
+Second process finished in 16.72874140739441 seconds
+Starting message processing
+Traceback (most recent call last):
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\main.py", line 211, in <module>
+    asyncio.run(main())
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 193, in run
+    with Runner(debug=debug, loop_factory=loop_factory) as runner:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 62, in __exit__ 
+    self.close()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 70, in close    
+    _cancel_all_tasks(loop)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 205, in _cancel_all_tasks
+    loop.run_until_complete(tasks.gather(*to_cancel, return_exceptions=True))
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 674, in run_until_complete
+    self.run_forever()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\windows_events.py", line 322, in run_forever
+    super().run_forever()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 641, in run_forever
+    self._run_once()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 1986, in _run_once
+    handle._run()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\events.py", line 88, in _run      
+    self._context.run(self._callback, *self._args)
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\main.py", line 205, in main
+    await asyncio.gather(
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 194, in run     
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 118, in run     
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 674, in run_until_complete
+    self.run_forever()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\windows_events.py", line 322, in run_forever
+    super().run_forever()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 641, in run_forever
+    self._run_once()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 1986, in _run_once
+    handle._run()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\main.py", line 138, in process_messages
+    if await search_and_click(image_paths['ir_binance']):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\main.py", line 114, in search_and_click
+    location = pyscreeze.locateCenterOnScreen(image_path)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\.venv\Lib\site-packages\pyscreeze\__init__.py", line 447, in locateCenterOnScreen
+    coords = locateOnScreen(image, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\.venv\Lib\site-packages\pyscreeze\__init__.py", line 405, in locateOnScreen
+    retVal = locate(image, screenshotIm, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\.venv\Lib\site-packages\pyscreeze\__init__.py", line 383, in locate
+    points = tuple(locateAll(needleImage, haystackImage, **kwargs))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\.venv\Lib\site-packages\pyscreeze\__init__.py", line 346, in _locateAll_pillow
+    needleImageData[searchy * needleWidth : (searchy + 1) * needleWidth]
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 157, in _on_sigint
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+Task was destroyed but it is pending!
+task: <Task cancelling name='Task-3' coro=<Connection._recv_loop() running at c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\.venv\Lib\site-packages\telethon\network\connection\connection.py:355> cb=[gather.<locals>._done_callback() at C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\tasks.py:767]>
+Task exception was never retrieved
+future: <Task finished name='Task-1' coro=<main() done, defined at c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\main.py:203> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\main.py", line 211, in <module>
+    asyncio.run(main())
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 193, in run     
+    with Runner(debug=debug, loop_factory=loop_factory) as runner:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 62, in __exit__ 
+    self.close()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 70, in close    
+    _cancel_all_tasks(loop)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 205, in _cancel_all_tasks
+    loop.run_until_complete(tasks.gather(*to_cancel, return_exceptions=True))
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 674, in run_until_complete
+    self.run_forever()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\windows_events.py", line 322, in run_forever
+    super().run_forever()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 641, in run_forever
+    self._run_once()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 1986, in _run_once
+    handle._run()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\events.py", line 88, in _run      
+    self._context.run(self._callback, *self._args)
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\main.py", line 205, in main
+    await asyncio.gather(
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 194, in run     
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 118, in run     
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 674, in run_until_complete
+    self.run_forever()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\windows_events.py", line 322, in run_forever
+    super().run_forever()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 641, in run_forever
+    self._run_once()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\base_events.py", line 1986, in _run_once
+    handle._run()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\events.py", line 88, in _run      
+    self._context.run(self._callback, *self._args)
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\main.py", line 138, in process_messages
+    if await search_and_click(image_paths['ir_binance']):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\main.py", line 114, in search_and_click
+    location = pyscreeze.locateCenterOnScreen(image_path)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\.venv\Lib\site-packages\pyscreeze\__init__.py", line 447, in locateCenterOnScreen
+    coords = locateOnScreen(image, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\.venv\Lib\site-packages\pyscreeze\__init__.py", line 405, in locateOnScreen
+    retVal = locate(image, screenshotIm, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\.venv\Lib\site-packages\pyscreeze\__init__.py", line 383, in locate
+    points = tuple(locateAll(needleImage, haystackImage, **kwargs))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects\.venv\Lib\site-packages\pyscreeze\__init__.py", line 346, in _locateAll_pillow
+    needleImageData[searchy * needleWidth : (searchy + 1) * needleWidth]
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1776.0_x64__qbz5n2kfra8p0\Lib\asyncio\runners.py", line 157, in _on_sigint
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+^C
+C:\Users\Andrea\Desktop\samuel\programcion\campus y proyectos\pythonProyects\python-proyects> 

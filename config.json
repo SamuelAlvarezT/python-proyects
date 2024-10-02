@@ -1,0 +1,21 @@
+{
+    "api_id": 28089555,
+    "api_hash": "1ebe2cac78e82f0bbcb3cb78f6248229",
+    "channels": [
+        "@Crypto_Box_Code_Binance",
+        "@UnlimitedBinanceBoxes",
+        "KingBX",
+        "Token_Boxes",
+        "rsbox"
+    ],
+    "output_chat": "@CryptotribuTeam",
+    "json_file_path": "data/mensajes.json",
+    "image_paths": {
+        "ir_binance": "images/IrBinance.png",
+        "paste_binance": "images/PasteBinance.png",
+        "claim_now": "images/ClaimNow.png",
+        "recargar": "images/CapturaRecargar.png",
+        "open": "images/Open.png",
+        "close_packet_details": "images/ClosePacketDetails.png"
+    }
+}
